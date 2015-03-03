@@ -1,5 +1,5 @@
 describe ('This test checks things are working for a start up code kata', function(){
-   
+
     var sut;
 
     beforeEach(module('codeKata'));
