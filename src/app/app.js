@@ -1,3 +1,4 @@
 ﻿(function () {
     angular.module('codeKata', []);
+
 })();
